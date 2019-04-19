@@ -1,0 +1,27 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Debug\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Debug\CapaLogicaDeNegocio.pdb

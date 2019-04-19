@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjNjkh1oyoEWHq1j36bXhPgAAAAACAAAAAAAQZgAAAAEAACAAAACB1H+ctM/EZ9me3UFfAMR2OlPDVM5938qV/T9zxXVoRgAAAAAOgAAAAAIAACAAAAD2aaVT7wPWlRehSs/wlgwtqmA9+e/qeMnV+G8oVj1qDYAAAAA7X9qmhpR6iyIJ+XaSaIlJa4ZDKe0bGcfU5RsW1++LhtJ9Mvt3DR7HSphN8dGnluxIpN1RWLC277whHh1p72BOs4Kh+7QEb5NcZJSTtosqUfF9G89/L2Xdi9dgOA/rrzYUhIJVLlqZHgG4wcPO/2Sb/6/dH2SM2IfEx0lUujfBy0AAAADtxvL/kDXXRswG0huK19sdNz/yWIwPQhZgeasNPid1eCxwj1P4FRPrD8wgZF0gzTIHPaB1f9XHskTPs+s2l24R</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-sn1-055.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Cerrar.aspx">
+      <publishTime>02/11/2016 03:06:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

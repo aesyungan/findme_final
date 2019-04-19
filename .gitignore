@@ -1,0 +1,9 @@
+FindNow_final/*.iml
+FindNow_final/.gradle
+FindNow_final/local.properties
+FindNow_final/.idea/workspace.xml
+FindNow_final/.idea/libraries
+FindNow_final/.DS_Store
+FindNow_final/build
+FindNow_final/captures
+FindNow_final/.externalNativeBuild

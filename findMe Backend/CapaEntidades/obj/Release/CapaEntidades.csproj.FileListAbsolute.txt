@@ -1,0 +1,22 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\bin\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\bin\Release\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.csprojResolveAssemblyReference.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\bin\Release\CapaEntidades.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.csprojAssemblyReference.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaEntidades\obj\Release\CapaEntidades.pdb

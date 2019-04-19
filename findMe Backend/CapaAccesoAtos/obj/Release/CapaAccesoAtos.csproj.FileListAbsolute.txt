@@ -1,0 +1,43 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Release\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Release\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Release\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Release\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Release\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Release\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll.config
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll.config
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csproj.CoreCompileInputs.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll.config
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaAccesoAtos.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\bin\Release\CapaEntidades.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csprojAssemblyReference.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csproj.CoreCompileInputs.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.csproj.CopyComplete
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaAccesoAtos\obj\Release\CapaAccesoAtos.pdb

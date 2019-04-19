@@ -1,0 +1,50 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\bin\Release\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\bin\Release\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll.config
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.pdb
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csprojResolveAssemblyReference.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csproj.CoreCompileInputs.cache
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.dll
+E:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaLogicaDeNegocio.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaAccesoAtos.dll.config
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\bin\Release\CapaEntidades.pdb
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csprojAssemblyReference.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csproj.CoreCompileInputs.cache
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.csproj.CopyComplete
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.dll
+D:\development\App Java\Projects visual studio Aspx\Mi app proyecto\CapaLogicaDeNegocio\obj\Release\CapaLogicaDeNegocio.pdb

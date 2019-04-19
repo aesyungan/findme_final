@@ -1,0 +1,15 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaEntidades\obj\Debug\CapaEntidades.pdb

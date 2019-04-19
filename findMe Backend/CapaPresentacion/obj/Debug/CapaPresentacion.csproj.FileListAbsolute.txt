@@ -1,0 +1,191 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\bin\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\bin\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaLogicaDeNegocio.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaLogicaDeNegocio.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\ApplicationInsights.config
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\csc.exe
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\vbc.exe
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaLogicaDeNegocio.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Newtonsoft.Json.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Net.Http.Formatting.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.WebHost.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaLogicaDeNegocio.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Newtonsoft.Json.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Net.Http.Formatting.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.WebHost.xml
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Net.Http.Formatting.resources.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Web.Http.resources.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\es\System.Web.Http.WebHost.resources.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\Microsoft.Web.XmlTransform.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\NuGet.Core.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Cors.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.Cors.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaPresentacion\bin\System.Web.Http.Cors.xml

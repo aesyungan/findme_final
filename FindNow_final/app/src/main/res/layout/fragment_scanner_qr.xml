@@ -1,0 +1,125 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xl.findnow_final.MenuPrincipal">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fdfcfc"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TabHost
+            android:id="@+id/tabHostQr"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"></TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:id="@+id/TabCodigoQr"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/textView4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="66dp"
+                            android:gravity="center"
+                            android:padding="3dp"
+                            android:text="Tu Codigo Find Me"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="#363636"
+                            android:textSize="24dp" />
+
+                        <ImageView
+                            android:id="@+id/imageView3"
+                            android:layout_width="151dp"
+                            android:layout_height="151dp"
+                            android:src="@drawable/map" />
+
+                        <ImageView
+                            android:id="@+id/fra_imageViewQr"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center_horizontal" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/TabScanner"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/textView41"
+                            android:layout_width="wrap_content"
+                            android:layout_height="66dp"
+                            android:gravity="center"
+                            android:padding="3dp"
+                            android:text="Tu Codigo Find Me"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="#363636"
+                            android:textSize="24dp" />
+
+                        <ImageView
+                            android:id="@+id/imageView32"
+                            android:layout_width="151dp"
+                            android:layout_height="151dp"
+                            android:layout_alignEnd="@+id/textView4"
+                            android:layout_below="@+id/textView4"
+                            android:src="@drawable/icono" />
+
+                        <android.support.design.widget.CoordinatorLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <LinearLayout
+                                android:padding="10dp"
+                                android:layout_width="match_parent"
+                                android:gravity="center|bottom"
+                                android:layout_height="match_parent">
+
+                                <android.support.design.widget.FloatingActionButton
+                                    android:layout_width="wrap_content"
+                                    android:id="@+id/fra_buttonScannerQr"
+                                    android:src="@android:drawable/ic_input_add"
+                                    android:layout_height="wrap_content" />
+                            </LinearLayout>
+
+                        </android.support.design.widget.CoordinatorLayout>
+
+
+                    </LinearLayout>
+
+
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+
+
+    </LinearLayout>
+
+</FrameLayout>

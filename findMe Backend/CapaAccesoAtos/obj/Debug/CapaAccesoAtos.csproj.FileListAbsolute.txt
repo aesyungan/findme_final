@@ -1,0 +1,24 @@
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\CapaPresentacion\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll.config
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Debug\CapaEntidades.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\bin\Debug\CapaEntidades.pdb
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.dll
+C:\Users\XL\Documents\Visual Studio 2015\Projects\Mi app ejemplo todo\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll.config
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Debug\CapaAccesoAtos.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Debug\CapaEntidades.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\bin\Debug\CapaEntidades.pdb
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.csprojResolveAssemblyReference.cache
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.dll
+D:\protectos java y visual studio\Projects\Mi app proyecto\CapaAccesoAtos\obj\Debug\CapaAccesoAtos.pdb

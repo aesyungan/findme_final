@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CapaAccesoAtos" GeneratedClassName="SettingsApp">
+  <Profiles />
+  <Settings>
+    <Setting Name="cadena_conexion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=tcp:proyectosbasesayungan.database.windows.net,1433;Initial Catalog=rioeventosdb;Persist Security Info=False;User ID=ayungan;Password=Cuka2205;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </Setting>
+    <Setting Name="p_veriicarUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pro_verificarUsuario</Value>
+    </Setting>
+    <Setting Name="pro_usuario_insertar" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pro_usuario_insertar</Value>
+    </Setting>
+    <Setting Name="pro_listar_Usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pro_listar_Usuario</Value>
+    </Setting>
+    <Setting Name="pro_eliminar_usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pro_eliminar_usuario</Value>
+    </Setting>
+    <Setting Name="p_mostrar_dispositivo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_mostrar_dispositivo</Value>
+    </Setting>
+    <Setting Name="p_mostrar_dispositivo_id" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_mostrar_dispositivo_id</Value>
+    </Setting>
+    <Setting Name="p_mostrar_asignacion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_mostrar_asignacion</Value>
+    </Setting>
+    <Setting Name="p_mostrar_asignacion_id" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_mostrar_asignacion_id</Value>
+    </Setting>
+    <Setting Name="p_insertar_dispositivo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_insertar_dispositivo</Value>
+    </Setting>
+    <Setting Name="p_update_dispositivo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_update_dispositivo</Value>
+    </Setting>
+    <Setting Name="p_delete_dispositivo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_delete_dispositivo</Value>
+    </Setting>
+    <Setting Name="p_mostrar_asignacion_id_usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_mostrar_asignacion_id_usuario</Value>
+    </Setting>
+    <Setting Name="pro_usuario_update" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pro_usuario_update</Value>
+    </Setting>
+    <Setting Name="p_insertar_asignacion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_insertar_asignacion</Value>
+    </Setting>
+    <Setting Name="p_update_asignacion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_update_asignacion</Value>
+    </Setting>
+    <Setting Name="p_remove_asignacion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p_remove_asignacion</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

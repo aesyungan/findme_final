@@ -1,0 +1,336 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#454444"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.xl.findnow_final.LoginActivity">
+
+    <!-- Login progress -->
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TabHost
+            android:id="@+id/TabLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+                    <LinearLayout
+                        android:id="@+id/email_login_form"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="247dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:gravity="center"
+                                android:textColor="@color/colorBlanco"
+                                android:textSize="30dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Login.." />
+                            <!--
+                           <ImageView
+
+                               android:layout_width="183dp"
+                               android:layout_height="184dp"
+                               android:src="@drawable/icono"
+                               android:layout_gravity="center"
+                               android:id="@+id/imageViewLogin" />
+                               -->
+                            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                                android:id="@+id/imageViewLogin"
+                                android:layout_width="183dp"
+                                android:layout_height="184dp"
+                                android:src="@drawable/icono"
+                                app:civ_border_width="2dp"
+                                app:civ_border_color="#ffffff" />
+
+                        </LinearLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/email"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="@string/prompt_email"
+                                android:inputType="textEmailAddress"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <EditText
+                                android:id="@+id/password"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="@string/prompt_password"
+                                android:imeActionId="@+id/login"
+                                android:imeActionLabel="@string/action_sign_in_short"
+                                android:imeOptions="actionUnspecified"
+                                android:inputType="textPassword"
+                                android:maxLines="1"
+                                android:textColor="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <Button
+                                android:id="@+id/email_sign_in_button"
+                                style="?android:textAppearanceSmall"
+                                android:layout_width="160dp"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="2dp"
+                                android:layout_marginTop="16dp"
+                                android:paddingLeft="16dp"
+                                android:textColor="@color/colorBlanco1"
+                                android:background="#839293"
+                                android:drawableLeft="@android:drawable/ic_partial_secure"
+                                android:text="@string/action_sign_in"
+                                android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!--fin tab 1-->
+
+                    <LinearLayout
+                        android:id="@+id/tab2_Registro"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/colorBlanco"
+                            android:textSize="30dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/Registro" />
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_nombres"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Nombres"
+                                android:inputType="text"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_apellidos"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Apellidos"
+                                android:inputType="text"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_cedula"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Cedula"
+                                android:inputType="text"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_email"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="@string/prompt_email"
+                                android:inputType="textEmailAddress"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <EditText
+                                android:id="@+id/Registro_password"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="@string/prompt_password"
+                                android:imeActionId="@+id/login"
+                                android:imeActionLabel="@string/action_sign_in_short"
+                                android:imeOptions="actionUnspecified"
+                                android:inputType="textPassword"
+                                android:maxLines="1"
+                                android:textColor="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_edad"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Edad"
+                                android:inputType="text"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/Registro_direccion"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Direccion"
+                                android:inputType="text"
+                                android:textColor="@color/colorBlanco"
+                                android:shadowColor="@color/colorBlanco"
+                                android:textColorHighlight="@color/colorBlanco"
+                                android:textColorLink="@color/colorBlanco"
+                                android:textColorHint="@color/colorBlanco"
+                                android:maxLines="1"
+                                android:singleLine="true" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <Button
+                            android:layout_margin="2dp"
+                            android:id="@+id/btnResgister"
+                            style="?android:textAppearanceSmall"
+                            android:layout_width="158dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:paddingLeft="16dp"
+                            android:background="#fd272a"
+                            android:textColor="@color/colorBlanco1"
+                            android:drawableLeft="@android:drawable/ic_partial_secure"
+                            android:text="Register"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+
+                    <!--fin tab 2-->
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+
+
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AccesoDatos</string>
+    <string name="URL_SERVICE_VERIFICAR_LOGUEO">http://apprioturalexyungan.azurewebsites.net/misSerivicios.asmx/VerificarUsuario</string>
+    <string name="URL_SERVICE_updateDispositivo">http://apprioturalexyungan.azurewebsites.net/misSerivicios.asmx/updateDispositivo</string>
+    <string name="URL_SERVICE_optenerAsignacionIdUsuario">http://apprioturalexyungan.azurewebsites.net/misSerivicios.asmx/optenerAsignacionIdUsuario</string>
+    <string name="Registro_Usuario">http://apprioturalexyungan.azurewebsites.net/misSerivicios.asmx/insertarUsuarioDispositivoTodo</string>
+    <string name="Agregar_Asignacion">http://apprioturalexyungan.azurewebsites.net/misSerivicios.asmx/insertarAsignacion</string>
+    <color name="blanco">#fdfdfd</color>
+    <color name="rojo">#ff0808</color>
+    <color name="celeste">#08ffe6</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
